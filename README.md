@@ -1,4 +1,4 @@
-<div align ="center">
+
 
 ### Hi!, im pai a 16 years old boy from colombia who like to program
 
@@ -6,7 +6,7 @@
 
 **[deno-online-compiler](https://deno-online-compiler.herokuapp.com/) - A online compiler for deno** <br>
 
-**[dino-bot](https://github.com/ELPanaJose/dino-bot) - A bot that execute your deno code and send you the output** <br>
+**[pairat](https://github.com/ELPanaJose/pairat) - A remote access tool & CNC** <br>
 
 **[bruh-bot](https://github.com/ELPanaJose/bruh-bot) - a discord bot that send sms and email spam** <br>
   
@@ -17,5 +17,5 @@
    
  </details>
 
-</div>
+
 
