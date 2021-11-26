@@ -8,7 +8,9 @@
 
 **[pairat](https://github.com/ELPanaJose/pairat) - A remote access tool & CNC** <br>
 
-**[bruh-bot](https://github.com/ELPanaJose/bruh-bot) - a discord bot that send sms and email spam** <br>
+**[bruh-bot](https://github.com/ELPanaJose/bruh-bot) - A discord bot that send sms and email spam** <br>
+
+**[ymp3cli](https://github.com/ELPanaJose/ymp3cli) - A cool tool for Download and listen music in the terminal!** <br>
   
 ## Stats
  <details>
