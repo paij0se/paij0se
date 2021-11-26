@@ -10,7 +10,7 @@
 
 **[bruh-bot](https://github.com/ELPanaJose/bruh-bot) - A discord bot that send sms and email spam** <br>
 
-**[ymp3cli](https://github.com/ELPanaJose/ymp3cli) - A cool tool for Download and listen music in the terminal!** <br>
+**[ymp3cli](https://github.com/paij0se/ymp3cli) - A cool tool for Download and listen music in the terminal!** <br>
   
 ## Stats
  <details>
