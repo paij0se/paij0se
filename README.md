@@ -1,6 +1,6 @@
 
 
-### Hi!, im pai a 16 years old boy from colombia who like to program
+### Hi, I'm pai a 17 years old boy from colombia who likes to program.
 
 ## Cool Projects 🍱 
 
