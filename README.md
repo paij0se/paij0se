@@ -1,5 +1,3 @@
-### I'm 17yo, from Colombia.
-
 ## Statistics
  <details>
    
